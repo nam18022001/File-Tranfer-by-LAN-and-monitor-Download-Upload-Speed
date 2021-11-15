@@ -1,0 +1,22 @@
+F:\4th Year, 1st Term\Computer Networks\LAB\File Transfer\File Transfer\bin\Debug\File Transfer.exe.config
+F:\4th Year, 1st Term\Computer Networks\LAB\File Transfer\File Transfer\bin\Debug\File Transfer.exe
+F:\4th Year, 1st Term\Computer Networks\LAB\File Transfer\File Transfer\bin\Debug\File Transfer.pdb
+F:\4th Year, 1st Term\Computer Networks\LAB\File Transfer\File Transfer\obj\Debug\File_Transfer.mainForm.resources
+F:\4th Year, 1st Term\Computer Networks\LAB\File Transfer\File Transfer\obj\Debug\File_Transfer.Properties.Resources.resources
+F:\4th Year, 1st Term\Computer Networks\LAB\File Transfer\File Transfer\obj\Debug\File Transfer.csproj.GenerateResource.Cache
+F:\4th Year, 1st Term\Computer Networks\LAB\File Transfer\File Transfer\obj\Debug\File Transfer.exe
+F:\4th Year, 1st Term\Computer Networks\LAB\File Transfer\File Transfer\obj\Debug\File Transfer.pdb
+F:\4th Year, 1st Term\Computer Networks\LAB\File Transfer\File Transfer\obj\Debug\File Transfer.csprojResolveAssemblyReference.cache
+F:\4th Year, 1st Term\Computer Networks\LAB\File Transfer\File Transfer\obj\Debug\File_Transfer.NotificationForm.resources
+C:\Users\Administrator\Downloads\File Transfer\File Transfer\bin\Debug\File Transfer.exe.config
+C:\Users\Administrator\Downloads\File Transfer\File Transfer\bin\Debug\File Transfer.exe
+C:\Users\Administrator\Downloads\File Transfer\File Transfer\bin\Debug\File Transfer.pdb
+C:\Users\Administrator\Downloads\File Transfer\File Transfer\obj\Debug\File Transfer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\File Transfer\File Transfer\obj\Debug\File Transfer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\File Transfer\File Transfer\obj\Debug\File_Transfer.mainForm.resources
+C:\Users\Administrator\Downloads\File Transfer\File Transfer\obj\Debug\File_Transfer.NotificationForm.resources
+C:\Users\Administrator\Downloads\File Transfer\File Transfer\obj\Debug\File_Transfer.Properties.Resources.resources
+C:\Users\Administrator\Downloads\File Transfer\File Transfer\obj\Debug\File Transfer.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\File Transfer\File Transfer\obj\Debug\File Transfer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\File Transfer\File Transfer\obj\Debug\File Transfer.exe
+C:\Users\Administrator\Downloads\File Transfer\File Transfer\obj\Debug\File Transfer.pdb
